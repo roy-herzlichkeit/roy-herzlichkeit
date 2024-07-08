@@ -1,5 +1,5 @@
 <h1 align="center">Guten Tag! <hr> I'm Souharda Roy</h1>
-<h3 align="center">A passionate confused developer from East India</h3>
+<h3 align="center">A confused developer from East India</h3>
 
 - 🔭 I’m currently working on [myCoupons](https://github.com/cordiality-crypto/myCoupons.git)
 
