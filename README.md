@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Advanced Data Structures and ALgorithms,Web Development, Linux, and German.**
 
-- 💬 Ask me about **Algorithms, History, Philosophy, Nolan-lore, Game of Thrones, Dune and Linux**
+- 💬 Ask me about **Algorithms, History, Philosophy, Nolan-lore, Game of Thrones, Dune and Linux.**
 
-- 📫 How to reach me **djikstra3301@gmail.com**
+- 📫 Contact me by mailing at **djikstra3301@gmail.com**
 
-- ⚡ Fun fact **I have OCD**
+- ⚡ Fun fact **I have OCD.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
