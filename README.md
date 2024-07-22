@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced Data Structures and ALgorithms in C++, RAMEN Stack Web Development, Linux, and German.**
 
-- 💬 Ask me about **Algorithms, History, Philosophy, Nolan-lore, Game of Thrones, Dune and Linux.**
+- 💬 Ask me about **Algorithms, Web Development and Linux.**
 
 - 📫 How to reach me **You can mail me at *djikstra3301@gmail.com*.**
 
