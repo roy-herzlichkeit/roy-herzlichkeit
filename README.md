@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [myCoupons](https://github.com/cordiality-crypto/myCoupons.git)
 
-- 🌱 I’m currently learning **Advanced Data Structures and ALgorithms in C++, RAMEN Stack Web Development, Linux, and German.**
+- 🌱 I’m currently learning **Advanced Data Structures and ALgorithms in C++, MERN Stack Web Development, Linux, and German.**
 
 - 💬 Ask me about **Algorithms, Web Development and Linux.**
 
