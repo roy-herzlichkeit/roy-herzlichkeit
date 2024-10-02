@@ -1,13 +1,13 @@
 <h1 align="center">Guten Tag! Ich heiße Souharda Roy</h1>
 <h3 align="center">An anxious confused developer from East India</h3>
 
-- 🔭 I’m currently working on [SIH:1648](https://github.com/cordiality-crypto/SIH1648)
+- 🔭 I’m currently working on [FianzMeiser](https://github.com/cordiality-crypto/FinanzMeister)
 
 - 🌱 I’m currently learning **Advanced Data Structures and ALgorithms,Web Development, Linux, and German.**
 
 - 💬 Ask me about **Algorithms, History, Philosophy, Nolan-lore, Game of Thrones, Dune and Linux.**
 
-- 📫 How to reach me **djikstra3301@gmail.com**
+- 📫 How to reach me **souharda_roy@outlook.com**
 
 - ⚡ Fun fact **I have OCD.**
 
