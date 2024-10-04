@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FianzMeiser](https://github.com/cordiality-crypto/FinanzMeister)
 
-- 🌱 I’m currently learning **Advanced Data Structures and ALgorithms,Web Development, Linux, and German.**
+- 🌱 I’m currently learning **Advanced Data Structures and Algorithms,Web Development, Linux, and German.**
 
 - 💬 Ask me about **Algorithms, History, Philosophy, Nolan-lore, Game of Thrones, Dune and Linux.**
 
