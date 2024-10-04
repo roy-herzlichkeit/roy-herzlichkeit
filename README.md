@@ -24,3 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cordiality-crypto&" alt="cordiality-crypto" /></p>
 
+Badges: 
+[![An image of @cordialitycrypto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cordialitycrypto)](https://holopin.io/@cordialitycrypto)
+
