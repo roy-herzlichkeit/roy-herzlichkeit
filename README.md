@@ -1,7 +1,7 @@
 <h1 align="center">Guten Tag! Ich heiße Souharda Roy</h1>
 <h3 align="center">An anxious confused developer from East India</h3>
 
-- 🔭 I’m currently working on [FianzMeiser](https://github.com/cordiality-crypto/FinanzMeister)
+- 🔭 I’m currently working on [FianzMeister](https://github.com/cordiality-crypto/FinanzMeister)
 
 - 🌱 I’m currently learning **Advanced Data Structures and Algorithms,Web Development, Linux, and German.**
 
