@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Algorithms, Cybersecurity and more of Web Development**
 
-- 👨‍💻 All of my projects are available at [herzlichkeit3301.in](herzlichkeit3301.in)
+- 👨‍💻 All of my projects are available at [herzlichkeit3301.in](herzlichkeit3301.in) 
 
 - 💬 Ask me about **Algorithms**
 
