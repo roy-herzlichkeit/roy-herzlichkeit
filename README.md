@@ -41,4 +41,4 @@
 
 <h3 align="left">Hacktoberfest 2024 Badges:</h3>
 
-[![An image of @cordialitycrypto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cordialitycrypto)](https://holopin.io/@cordialitycrypto)
+[![An image of @cordialitycrypto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cordialitycrypto)](https://holopin.io/@cordialitycrypto) 
