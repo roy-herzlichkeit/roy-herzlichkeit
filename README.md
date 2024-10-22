@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FianzMeister](https://github.com/cordiality-crypto/FinanzMeister)
 
-- 🌱 I’m currently learning **Algorithms, Cybersecurity and more of Web Development**
+- 🌱 I’m currently learning **Algorithms, Cybersecurity and more of Web Development** along with my Academics and ein bisschen German
 
 - 👨‍💻 All of my projects will be available on [herzlichkeit3301.in](herzlichkeit3301.in) 
 
