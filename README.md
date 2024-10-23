@@ -11,7 +11,7 @@
 
 - 📫 Contact me @ **souharda_roy@outlook.com**
 
-- ⚡ Fun fact **I like Cooking**
+- ⚡ Fun fact **I like to Cook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
