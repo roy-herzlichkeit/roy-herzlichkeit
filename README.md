@@ -1,5 +1,5 @@
-<h1 align="center">Bonsoir, mon ami! Je suis Souharda Roy</h1>
-<h3 align="center">A lazy Full Stack Web Developer</h3>
+<h1 align="center">Guten Tag, amigo! <br/>Я Souharda Roy</h1>
+<h3 align="center">Je suis ein ল্যাদখোর Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on NIL.
 
