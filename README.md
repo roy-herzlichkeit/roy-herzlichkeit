@@ -26,9 +26,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cordiality-crypto&show_icons=true&locale=en&layout=compact" alt="herzlichkeit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roy-herzlichkeit&show_icons=true&locale=en&layout=compact" alt="herzlichkeit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cordiality-crypto&show_icons=true&locale=en" alt="herzlichkeit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roy-herzlichkeit&show_icons=true&locale=en" alt="herzlichkeit" /></p>
 
 
 
