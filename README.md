@@ -30,7 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cordiality-crypto&show_icons=true&locale=en" alt="herzlichkeit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cordiality-crypto&animated=true" alt="herzlichkeit" /></p>
 
 
 <h3 align="left">Leetcode Stats:</h3>
