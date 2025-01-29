@@ -26,18 +26,18 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cordiality-crypto&show_icons=true&locale=en&layout=compact" alt="cordiality-crypto" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cordiality-crypto&show_icons=true&locale=en&layout=compact" alt="herzlichkeit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cordiality-crypto&show_icons=true&locale=en" alt="cordiality-crypto" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cordiality-crypto&show_icons=true&locale=en" alt="herzlichkeit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cordiality-crypto&animated=true" alt="cordiality-crypto" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cordiality-crypto&animated=true" alt="herzlichkeit" /></p>
 
 
 <h3 align="left">Leetcode Stats:</h3>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/cordiality_crypto?theme=light&font=Source%20Sans%203&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/herzlichkeit?theme=light&font=Source%20Sans%203&ext=contest)
 <br>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=cordiality_crypto" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=herzlichkeit" alt="LeetCode Badges"/>
 
 <h3 align="left">Hacktoberfest 2024 Badges:</h3>
 
