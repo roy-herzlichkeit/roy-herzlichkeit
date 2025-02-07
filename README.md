@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a deployable TODO list.
 
-- 🌱 I’m currently learning **Algorithms, Cybersecurity and more Web Development** along with my Academics and ein bisschen German
+- 🌱 I’m currently into **CP, GATE and CyberSec** along with some Web Development
 
 - 👨‍💻 All of my projects will be available on [herzlichkeit3301.in](herzlichkeit3301.in) 
 
