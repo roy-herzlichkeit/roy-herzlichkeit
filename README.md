@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on NULL.
 
-- 🌱 I’m currently into **CP, GATE and CyberSec** along with some Web Development
+- 🌱 I’m currently into WebDeV and CP
 
-- 👨‍💻 All of my projects will be available on [herzlichkeit3301.in](herzlichkeit3301.in) 
+- 👨‍💻 All of my projects will be available in [here](https://roy-herzlichkeit.github.io/portfolio/))
 
-- 💬 Ask me about **Algorithms**
+- 💬 Ask me about **NULL**
 
 - 📫 Contact me @ **souharda_roy@outlook.com**
 
