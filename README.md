@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently into WebDeV and CP
 
-- 👨‍💻 All of my projects will be available in [here](https://roy-herzlichkeit.github.io/portfolio/))
+- 👨‍💻 All of my projects will be available in [here](https://roy-herzlichkeit.github.io/portfolio/)
 
 - 💬 Ask me about **NULL**
 
