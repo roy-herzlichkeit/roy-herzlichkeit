@@ -1,7 +1,7 @@
 <h1 align="center">Guten Tag, amigo! <br/>Я Souharda Roy</h1>
 <h3 align="center">Je soy ein ল্যাদখোর Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on a deployable TODO list.
+- 🔭 I’m currently working on NULL.
 
 - 🌱 I’m currently into **CP, GATE and CyberSec** along with some Web Development
 
