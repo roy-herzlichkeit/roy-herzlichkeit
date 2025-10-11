@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on NULL.
 
-- 🌱 I’m currently into WebDeV and CP
+- 🌱 I’m currently into DevOps and CP
 
 - 👨‍💻 All of my projects will be available in [here](https://roy-herzlichkeit.github.io/portfolio/)
 
